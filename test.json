@@ -1,0 +1,1042 @@
+{
+    "created": "2019-06-23T14:46:32.751Z",
+    "id": "3c64c748-5471-4460-9f9d-f68fd89eaf39",
+    "iteration": "3193d83f-09c9-48fe-89c0-c673dc813195",
+    "predictions": [
+        {
+            "boundingBox": {
+                "height": 0.174709558,
+                "left": 0.8274933,
+                "top": 0.07398312,
+                "width": 0.05863285
+            },
+            "probability": 0.0268370565,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.151867628,
+                "left": 0.8858662,
+                "top": 0.09047221,
+                "width": 0.0539680123
+            },
+            "probability": 0.0158690158,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.151973724,
+                "left": 0.958976269,
+                "top": 0.0931933746,
+                "width": 0.0380919576
+            },
+            "probability": 0.0159389731,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.157193422,
+                "left": 0.878376544,
+                "top": 0.372409,
+                "width": 0.07593721
+            },
+            "probability": 0.0165397525,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.205950856,
+                "left": 0.06830901,
+                "top": 0.581798136,
+                "width": 0.0516197979
+            },
+            "probability": 0.0144866332,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2348584,
+                "left": 0.117312714,
+                "top": 0.5699377,
+                "width": 0.0465633124
+            },
+            "probability": 0.08741675,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1845637,
+                "left": 0.164243385,
+                "top": 0.5890766,
+                "width": 0.0479538441
+            },
+            "probability": 0.0436622277,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.190392971,
+                "left": 0.237174392,
+                "top": 0.5855742,
+                "width": 0.0247372985
+            },
+            "probability": 0.0327434428,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.208262563,
+                "left": 0.3442313,
+                "top": 0.5710058,
+                "width": 0.06420833
+            },
+            "probability": 0.0136607913,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.197041273,
+                "left": 0.158676073,
+                "top": 0.797736168,
+                "width": 0.0499433726
+            },
+            "probability": 0.0140755922,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.167739391,
+                "left": 0.221280068,
+                "top": 0.818275154,
+                "width": 0.05687177
+            },
+            "probability": 0.0159709826,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1795085,
+                "left": 0.280332685,
+                "top": 0.81172204,
+                "width": 0.05544716
+            },
+            "probability": 0.0176332947,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.208216846,
+                "left": 0.434013873,
+                "top": 0.79177314,
+                "width": 0.06401226
+            },
+            "probability": 0.0440182127,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.205587566,
+                "left": 0.5033347,
+                "top": 0.7944024,
+                "width": 0.06408912
+            },
+            "probability": 0.0195978209,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.24795261,
+                "left": 0.763178766,
+                "top": 0.03100577,
+                "width": 0.08807427
+            },
+            "probability": 0.08991691,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2324614,
+                "left": 0.809766054,
+                "top": 0.0414737538,
+                "width": 0.110909343
+            },
+            "probability": 0.143346,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.21862641,
+                "left": 0.8618338,
+                "top": 0.05470919,
+                "width": 0.117593646
+            },
+            "probability": 0.0217872541,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2177724,
+                "left": 0.5159703,
+                "top": 0.337809533,
+                "width": 0.08392304
+            },
+            "probability": 0.0208851863,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.230518758,
+                "left": 0.787719131,
+                "top": 0.3291502,
+                "width": 0.0923442841
+            },
+            "probability": 0.0206969045,
+            "tagId": "f9290d07-6ba2-4e9e-b4e1-183d1a293a0c",
+            "tagName": "others"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2348584,
+                "left": 0.117312714,
+                "top": 0.5699377,
+                "width": 0.0465633124
+            },
+            "probability": 0.0532685369,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1845637,
+                "left": 0.164243385,
+                "top": 0.5890766,
+                "width": 0.0479538441
+            },
+            "probability": 0.0189352557,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.190392971,
+                "left": 0.237174392,
+                "top": 0.5855742,
+                "width": 0.0247372985
+            },
+            "probability": 0.0145426309,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.197041273,
+                "left": 0.158676073,
+                "top": 0.797736168,
+                "width": 0.0499433726
+            },
+            "probability": 0.0161511842,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.167739391,
+                "left": 0.221280068,
+                "top": 0.818275154,
+                "width": 0.05687177
+            },
+            "probability": 0.0143760191,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1795085,
+                "left": 0.280332685,
+                "top": 0.81172204,
+                "width": 0.05544716
+            },
+            "probability": 0.0129130865,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.208216846,
+                "left": 0.434013873,
+                "top": 0.79177314,
+                "width": 0.06401226
+            },
+            "probability": 0.04047727,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.205587566,
+                "left": 0.5033347,
+                "top": 0.7944024,
+                "width": 0.06408912
+            },
+            "probability": 0.0152510125,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.230020255,
+                "left": 0.07533632,
+                "top": 0.06874913,
+                "width": 0.1142198
+            },
+            "probability": 0.0108657219,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.195871651,
+                "left": 0.1279641,
+                "top": 0.584392965,
+                "width": 0.107006654
+            },
+            "probability": 0.0224592965,
+            "tagId": "6319d36e-8535-4744-858a-f7a0513ba6b3",
+            "tagName": "VB"
+        },
+        {
+            "boundingBox": {
+                "height": 0.223397046,
+                "left": 0.329395533,
+                "top": 0.08109165,
+                "width": 0.0717620254
+            },
+            "probability": 0.057685364,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.104482859,
+                "left": 0.220186621,
+                "top": 0.176295757,
+                "width": 0.05738285
+            },
+            "probability": 0.01181166,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.162496492,
+                "left": 0.4004338,
+                "top": 0.1370355,
+                "width": 0.06091976
+            },
+            "probability": 0.300537378,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.145510525,
+                "left": 0.4662557,
+                "top": 0.14641884,
+                "width": 0.086505264
+            },
+            "probability": 0.165032685,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1400887,
+                "left": 0.001354618,
+                "top": 0.41214785,
+                "width": 0.05258754
+            },
+            "probability": 0.0101303682,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.209726691,
+                "left": 0.08006418,
+                "top": 0.343955874,
+                "width": 0.0764254
+            },
+            "probability": 0.026571352,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2529141,
+                "left": 0.216980487,
+                "top": 0.330361933,
+                "width": 0.0980307758
+            },
+            "probability": 0.357418418,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.241690367,
+                "left": 0.3078714,
+                "top": 0.3264589,
+                "width": 0.07387295
+            },
+            "probability": 0.22810334,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.256213844,
+                "left": 0.3728984,
+                "top": 0.32297188,
+                "width": 0.07940507
+            },
+            "probability": 0.3715178,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.267639935,
+                "left": 0.447949648,
+                "top": 0.3135088,
+                "width": 0.0713489056
+            },
+            "probability": 0.5521102,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.242318541,
+                "left": 0.6961803,
+                "top": 0.3170236,
+                "width": 0.0886594653
+            },
+            "probability": 0.03790858,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2348584,
+                "left": 0.117312714,
+                "top": 0.5699377,
+                "width": 0.0465633124
+            },
+            "probability": 0.0511208177,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1845637,
+                "left": 0.164243385,
+                "top": 0.5890766,
+                "width": 0.0479538441
+            },
+            "probability": 0.0325435065,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.190392971,
+                "left": 0.237174392,
+                "top": 0.5855742,
+                "width": 0.0247372985
+            },
+            "probability": 0.0401715226,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.162769973,
+                "left": 0.248613417,
+                "top": 0.595214844,
+                "width": 0.0693830252
+            },
+            "probability": 0.0155214285,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.208262563,
+                "left": 0.3442313,
+                "top": 0.5710058,
+                "width": 0.06420833
+            },
+            "probability": 0.2370167,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.187530518,
+                "left": 0.409678042,
+                "top": 0.5845696,
+                "width": 0.0606309474
+            },
+            "probability": 0.141230687,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.18106097,
+                "left": 0.475007951,
+                "top": 0.598439753,
+                "width": 0.06540978
+            },
+            "probability": 0.1730118,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.216658771,
+                "left": 0.5440896,
+                "top": 0.5782301,
+                "width": 0.0623697042
+            },
+            "probability": 0.1727965,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.238705337,
+                "left": 0.6088775,
+                "top": 0.5780168,
+                "width": 0.07825583
+            },
+            "probability": 0.24977006,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.197041273,
+                "left": 0.158676073,
+                "top": 0.797736168,
+                "width": 0.0499433726
+            },
+            "probability": 0.04300006,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.167739391,
+                "left": 0.221280068,
+                "top": 0.818275154,
+                "width": 0.05687177
+            },
+            "probability": 0.07275819,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1795085,
+                "left": 0.280332685,
+                "top": 0.81172204,
+                "width": 0.05544716
+            },
+            "probability": 0.06411829,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.188145459,
+                "left": 0.31842503,
+                "top": 0.805666268,
+                "width": 0.0608290434
+            },
+            "probability": 0.02132833,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.176625848,
+                "left": 0.360574156,
+                "top": 0.8118383,
+                "width": 0.0653530657
+            },
+            "probability": 0.0130305411,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.208216846,
+                "left": 0.434013873,
+                "top": 0.79177314,
+                "width": 0.06401226
+            },
+            "probability": 0.212164447,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.205587566,
+                "left": 0.5033347,
+                "top": 0.7944024,
+                "width": 0.06408912
+            },
+            "probability": 0.445895255,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.181471169,
+                "left": 0.5605428,
+                "top": 0.8185188,
+                "width": 0.06963205
+            },
+            "probability": 0.2913576,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.159123838,
+                "left": 0.6388732,
+                "top": 0.8191329,
+                "width": 0.0623799562
+            },
+            "probability": 0.02401465,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.16611135,
+                "left": 0.6825773,
+                "top": 0.833878636,
+                "width": 0.0534912944
+            },
+            "probability": 0.0205939524,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1713295,
+                "left": 0.7229082,
+                "top": 0.8286605,
+                "width": 0.08240634
+            },
+            "probability": 0.0350514054,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.292210072,
+                "left": 0.5538875,
+                "top": 0.0,
+                "width": 0.06815952
+            },
+            "probability": 0.09549095,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2177724,
+                "left": 0.5159703,
+                "top": 0.337809533,
+                "width": 0.08392304
+            },
+            "probability": 0.253259659,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.233528852,
+                "left": 0.603978,
+                "top": 0.3255126,
+                "width": 0.0828867555
+            },
+            "probability": 0.124227427,
+            "tagId": "cdb6a27b-5b5d-41a9-8d0e-0336102260cf",
+            "tagName": "VC"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2348584,
+                "left": 0.117312714,
+                "top": 0.5699377,
+                "width": 0.0465633124
+            },
+            "probability": 0.0887566,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1845637,
+                "left": 0.164243385,
+                "top": 0.5890766,
+                "width": 0.0479538441
+            },
+            "probability": 0.0405244268,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.190392971,
+                "left": 0.237174392,
+                "top": 0.5855742,
+                "width": 0.0247372985
+            },
+            "probability": 0.029596312,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.208262563,
+                "left": 0.3442313,
+                "top": 0.5710058,
+                "width": 0.06420833
+            },
+            "probability": 0.0196597856,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1859765,
+                "left": 0.114224643,
+                "top": 0.8000473,
+                "width": 0.0511452258
+            },
+            "probability": 0.0107024675,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.197041273,
+                "left": 0.158676073,
+                "top": 0.797736168,
+                "width": 0.0499433726
+            },
+            "probability": 0.04285784,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.167739391,
+                "left": 0.221280068,
+                "top": 0.818275154,
+                "width": 0.05687177
+            },
+            "probability": 0.0485389754,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1795085,
+                "left": 0.280332685,
+                "top": 0.81172204,
+                "width": 0.05544716
+            },
+            "probability": 0.05115972,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.188145459,
+                "left": 0.31842503,
+                "top": 0.805666268,
+                "width": 0.0608290434
+            },
+            "probability": 0.0356513076,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.176625848,
+                "left": 0.360574156,
+                "top": 0.8118383,
+                "width": 0.0653530657
+            },
+            "probability": 0.0262404121,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.208216846,
+                "left": 0.434013873,
+                "top": 0.79177314,
+                "width": 0.06401226
+            },
+            "probability": 0.224002078,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.205587566,
+                "left": 0.5033347,
+                "top": 0.7944024,
+                "width": 0.06408912
+            },
+            "probability": 0.0728616342,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.181471169,
+                "left": 0.5605428,
+                "top": 0.8185188,
+                "width": 0.06963205
+            },
+            "probability": 0.0208933484,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.211443633,
+                "left": 0.457351238,
+                "top": 0.09134776,
+                "width": 0.09682605
+            },
+            "probability": 0.0122755878,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.294235557,
+                "left": 0.5552057,
+                "top": 0.00470644236,
+                "width": 0.0660347342
+            },
+            "probability": 0.0582279041,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.180079848,
+                "left": 0.0688526,
+                "top": 0.3579578,
+                "width": 0.10181053
+            },
+            "probability": 0.0187658221,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.210731328,
+                "left": 0.227622971,
+                "top": 0.346914828,
+                "width": 0.08034839
+            },
+            "probability": 0.07555515,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.231128782,
+                "left": 0.305960119,
+                "top": 0.335744649,
+                "width": 0.0814755261
+            },
+            "probability": 0.021889573,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.22537297,
+                "left": 0.363247633,
+                "top": 0.3473963,
+                "width": 0.07899678
+            },
+            "probability": 0.0293646473,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.221737832,
+                "left": 0.448574781,
+                "top": 0.345311075,
+                "width": 0.07753801
+            },
+            "probability": 0.0546034,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.2177724,
+                "left": 0.5159703,
+                "top": 0.337809533,
+                "width": 0.08392304
+            },
+            "probability": 0.151985213,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.233528852,
+                "left": 0.603978,
+                "top": 0.3255126,
+                "width": 0.0828867555
+            },
+            "probability": 0.241392672,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.224923074,
+                "left": 0.6972082,
+                "top": 0.330039084,
+                "width": 0.08934641
+            },
+            "probability": 0.14660649,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.230518758,
+                "left": 0.787719131,
+                "top": 0.3291502,
+                "width": 0.0923442841
+            },
+            "probability": 0.131004974,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.221521556,
+                "left": 0.8709783,
+                "top": 0.347343564,
+                "width": 0.09904528
+            },
+            "probability": 0.101454489,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.195871651,
+                "left": 0.1279641,
+                "top": 0.584392965,
+                "width": 0.107006654
+            },
+            "probability": 0.0420074426,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.1913184,
+                "left": 0.2332988,
+                "top": 0.5814755,
+                "width": 0.105790719
+            },
+            "probability": 0.01297183,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.206863344,
+                "left": 0.6132303,
+                "top": 0.5810089,
+                "width": 0.0737731457
+            },
+            "probability": 0.0316512734,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.209837079,
+                "left": 0.6795145,
+                "top": 0.579432,
+                "width": 0.100552917
+            },
+            "probability": 0.0407840125,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.259101331,
+                "left": 0.8193807,
+                "top": 0.5561704,
+                "width": 0.125784039
+            },
+            "probability": 0.0238117911,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        },
+        {
+            "boundingBox": {
+                "height": 0.31610328,
+                "left": 0.9259699,
+                "top": 0.5969423,
+                "width": 0.07402009
+            },
+            "probability": 0.0157065541,
+            "tagId": "a259b8bf-44b8-4ce3-ac6c-89eec6d264a8",
+            "tagName": "VD"
+        }
+    ],
+    "project": "6cad7b44-cde9-4fdc-8aaf-d34672e5ac96"
+}
